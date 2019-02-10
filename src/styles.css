@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+body {
+    font-family: 'Signika'!important;font-size: 22px;
+}
+
+.cdk-overlay-pane_chrome{
+    position: absolute !important;
+    top: 10px;
+    right: 40px;
+}
+.cdk-overlay-pane_firefox{
+    position: absolute !important;
+    top: 10px;
+    left: 40px;
+}

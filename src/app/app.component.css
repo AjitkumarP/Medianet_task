@@ -1,0 +1,200 @@
+.catbox{
+    text-align: center;
+    height: 654px;
+    background-image: url("../assets/cat.png");
+    background-size: cover;
+    
+}
+@media screen and (max-width: 480px) {
+    .catbox{
+        height: 240px;
+    }
+    .mcbookdiv{
+        text-align: center !important;
+    }
+    .contbtn{
+        text-align: center;
+    }
+  }
+  @media screen and (max-width: 768px){
+    .contbtn{
+        text-align: center;
+    }
+    .navtxt{
+        text-align: center;
+    }
+  }
+.contact{
+    background-image: url("../assets/whirl-ic.png");
+    background-size: inherit;
+}
+.bottomnav{
+    background-color: #00dcc5;
+    border-top: 1px solid black;
+    position: relative;
+    top: -50px;
+    padding: 20px;
+}
+.footer-content{
+    text-align: center;
+    background-color: #edf9f5;
+    position: relative;
+    top: -50px;
+    padding: 70px;
+}
+.form-input{
+    background-color: #d6f3e9;
+    margin: 10px 0px;
+}
+a{
+    text-decoration: none;
+}
+.feedback{
+    padding: 20px 0px;
+}
+.sendbtn{
+    background-color: #008696;
+    color: #ffffff;
+}
+.navtxt{
+    font-size: 20px;
+}
+.contacttxt{
+    color: #d6f3e9;
+    font-size: 40px;
+}
+.contacttxtbody1{
+    color: #007377;
+    font-size: 30px;
+}
+.contacttxtbody2{
+    color: #007377;
+    font-size: 15px;
+}
+.contact-text{
+    text-align: center;
+    margin: auto;
+    padding: 100px 0px;
+    
+}
+.animallove{
+    background-color: #13a791;
+    padding: 30px;
+}
+.heart{
+    width:30px;
+    height:20px;
+}
+.heart1{
+    width:30px;
+    height:30px;
+}
+.content{
+    padding-top: 60px;
+    display: inline-block;
+}
+.mcBook{
+    height: 90px;
+}
+.mcbookdiv{
+    text-align: right;
+}
+.extensionbox{
+    border-radius: 10px;
+    background-color: #edf9f5;
+    padding: 20px;
+    margin-top: 20px;
+}
+.continue{
+    background-color: #ffcc00;
+    color: #542400;
+    border-radius: 10px;
+}
+.contbtn{
+    padding: 20px;
+}
+.angle{
+    padding: 5px;
+    position: relative;
+    top: 2px;
+}
+.plzread{
+    font-size: 8px;
+    padding: 5px;
+}
+.text{
+    font-size: 15px;
+    color: #458780;
+}
+.pet{
+    width: 100%;
+}
+.petlover{
+    text-align: center;
+    font-size:35px;
+    margin: 15px 0px;
+}
+.petbg{
+    background-color: #edf9f5;
+}
+.privacy{
+    font-size: 7px;
+    padding: 15px;
+    text-align: center;
+}
+.featuresbg{
+    background-color: #d6f3e9;
+}
+.features{
+    text-align: center;
+    font-size: 40px;
+}
+.featurebox{
+    border-radius: 24px;
+    background-color: #008696;
+    text-align: center;
+    padding: 15px;
+    margin:5px;
+}
+ol{
+    list-style-type: none;
+}
+.thankbtn{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.featurebox1{
+    border-radius: 24px;
+    background-color: #008696;
+    text-align: center;
+    padding: 10px;
+    margin:5px;
+}
+.box-contenthd{
+    font-size: 18px;
+    padding: 5px;
+
+}
+.box-contentvv{
+    padding: 9px;
+}
+.box-contentps{
+    padding: 2px 25px;
+}
+.box-contentbd{
+    font-size: 12px;
+    padding: 3px;
+}
+.box-contenthd1{
+    font-size: 21px;
+}
+.box-contentbd1{
+    font-size: 12px;
+}
+.box-contenttt{
+    padding: 0px;
+}
+.featureicon{
+    width:42px;
+}
